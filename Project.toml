@@ -1,0 +1,8 @@
+name = "PropBiology"
+uuid = "3338c13f-fa56-4f1f-8850-2ffbd260d51a"
+authors = ["pedrosecchi67 <pedrosecchimail@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
